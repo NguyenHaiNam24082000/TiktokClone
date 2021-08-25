@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="20"
+    android:viewportHeight="20">
+  <group>
+    <clip-path
+        android:pathData="M0,0h20v20h-20z"/>
+    <path
+        android:pathData="M16.0393,14.7137C17.75,13 18.75,11.215 18.75,9.1366C18.75,4.919 14.8887,1.5 10.125,1.5C5.3613,1.5 1.5,4.919 1.5,9.1368C1.5,13.3545 5.4862,16.25 10.25,16.25V17.6487C10.25,18.0919 10.7095,18.3771 11.0992,18.1659C12.3166,17.5062 14.5725,16.183 16.0393,14.7137ZM5.9353,8.1068C6.6161,8.1068 7.168,8.6547 7.168,9.3296C7.168,10.0059 6.6161,10.5538 5.9353,10.5538C5.2556,10.5538 4.7037,10.0059 4.7037,9.3296C4.7037,8.6547 5.2556,8.1068 5.9353,8.1068ZM11.3572,9.3296C11.3572,8.6547 10.8055,8.1068 10.125,8.1068C9.4446,8.1068 8.8929,8.6547 8.8929,9.3296C8.8929,10.0059 9.4446,10.5538 10.125,10.5538C10.8055,10.5538 11.3572,10.0059 11.3572,9.3296ZM14.3146,8.1068C14.9953,8.1068 15.5464,8.6547 15.5464,9.3296C15.5464,10.0059 14.9953,10.5538 14.3146,10.5538C13.6339,10.5538 13.082,10.0059 13.0821,9.3296C13.0821,8.6547 13.6339,8.1068 14.3146,8.1068Z"
+        android:strokeAlpha="0.9"
+        android:fillColor="#fff"
+        android:fillType="evenOdd"
+        android:fillAlpha="1"/>
+    <path
+        android:pathData="M10.25,16.2499C10.25,16.2499 15.0278,15.8807 17.025,13.3234C15.0278,16.1364 13.0307,17.6708 11.2831,18.1822C9.5356,18.6937 10.25,16.2499 10.25,16.2499Z"
+        android:strokeAlpha="0.1"
+        android:fillType="evenOdd"
+        android:fillAlpha="1">
+      <aapt:attr name="android:fillColor">
+        <gradient 
+            android:startY="15.6957"
+            android:startX="8.50426"
+            android:endY="18.1805"
+            android:endX="9.29499"
+            android:type="linear">
+          <item android:offset="0" android:color="#FFF"/>
+          <item android:offset="1" android:color="#FFF"/>
+        </gradient>
+      </aapt:attr>
+    </path>
+  </group>
+</vector>

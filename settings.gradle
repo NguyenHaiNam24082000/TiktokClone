@@ -1,0 +1,3 @@
+include ':gpuv'
+include ':app'
+rootProject.name = "TikTok"
